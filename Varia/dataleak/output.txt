@@ -1,0 +1,2 @@
+hashcat -m 17400 -a 0 -w 4 -o cracked.txt passwords.txt rockyou.txt -r /usr/share/hashcat/rules/best64.rule
+hashcat -m 1400 -a 3 -w 4 -o cracked.txt passwords.txt ?a?a?a?a?a?a?a?a

@@ -1,0 +1,8 @@
+1E68215 1B1J1C91D 41F173
+  1E682151B1J1C91D41F173
+
+0ab0aj0ac0i0ad 0aef0f0b0ae0abf0aa0g0c 0d0af0aa0g0c
+
+0ab0aj0ac0i0ad
+0aef0f0b0ae0abf0aa0g0c
+0d0af0aa0g0c

@@ -1,0 +1,11 @@
+{
+  "clowns": {
+      "some": {
+          "clown": {
+              "password": {
+                  "startsWith": "   -"
+              }
+          }
+      }
+  }
+}

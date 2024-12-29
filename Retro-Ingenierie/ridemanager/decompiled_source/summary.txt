@@ -1,0 +1,2 @@
+Summary for ./RideManager_0.0.1.jar
+Decompiled with CFR 0.151
